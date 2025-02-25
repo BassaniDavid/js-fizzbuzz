@@ -1,0 +1,5 @@
+- creare ciclo che stampi i numeri da 1 a 100.
+- fare in modo che con i multipli di 3 venga stampata la scritta "Fizz"
+- fare in modo che con i multipli di 5 venga stampata la scritta "Buzz"
+- fare in modo che con i multipli di 3 e 5 venga stampata la scritta "FizzBuzz"
+- modificare la stampa dei numeri in modo che non vengano stampati ne i moltipli di 3 ne di 5
